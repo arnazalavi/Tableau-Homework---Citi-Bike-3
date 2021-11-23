@@ -9,4 +9,15 @@ https://public.tableau.com/app/profile/arnaz/viz/Citi-Bike-Story/Citi-Bike-Arnaz
 
 
 #### Dashboard-1 .4 graph 
-![Image of Yaktocat](https://github.com/arnazalavi/Tableau-Homework---Citi-Bike-Analytics/blob/main/Images/Dash-1-topandbottom10.PNG)
+![Image of Yaktocat](https://github.com/arnazalavi/Tableau-Homework---Citi-Bike-3/blob/main/Images/Dash-2-PeakStartshourWinter-Summer.PNG)
+
+#### Dashboard-1 .4 graph 
+![Image of Yaktocat](https://github.com/arnazalavi/Tableau-Homework---Citi-Bike-3/blob/main/Images/Maps.PNG)
+
+
+#### Dashboard-1 .4 graph 
+![Image of Yaktocat](https://github.com/arnazalavi/Tableau-Homework---Citi-Bike-3/blob/main/Images/GenderAnalysis.PNG)
+
+
+#### Dashboard-1 .4 graph 
+![Image of Yaktocat](https://github.com/arnazalavi/Tableau-Homework---Citi-Bike-3/blob/main/Images/Gender_agae-bikecount.PNG)
